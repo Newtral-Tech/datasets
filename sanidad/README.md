@@ -29,7 +29,7 @@ No se tienen datos de gastos de Ceuta y Melilla durante todo el periodo, y de ni
 
 ## Origen de los datos
 - Catálogos: [fuente](https://www.mscbs.gob.es/ciudadanos/prestaciones/centrosServiciosSNS/hospitales/home.htm).
-- Gastos en sanidad (gasto consolidado, gasto en conciertos, gasto en porcentaje sobre el del PIB y gasto en porcentaje por habitante): [fuente](|https://www.mscbs.gob.es/estadEstudios/estadisticas/sisInfSanSNS/pdf/egspGastoReal.pdf).
+- Gastos en sanidad (gasto consolidado, gasto en conciertos, gasto en porcentaje sobre el del PIB y gasto en porcentaje por habitante): [fuente](https://www.mscbs.gob.es/estadEstudios/estadisticas/sisInfSanSNS/pdf/egspGastoReal.pdf).
 
 ## Metodología
 - Metodología sobre la unificación de los catálogos:
