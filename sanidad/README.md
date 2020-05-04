@@ -47,7 +47,7 @@ No se tienen datos de gastos de Ceuta y Melilla durante todo el periodo, y de ni
     * Se han *booleanizado* las columnas `ALTA` y `CERRADO`.
 
 - Metodología sobre el *dataset* enriquecido con datos de presupuestos:
-    * Los datos se muestran en miles de millones de euros.
+    * Los datos se muestran en miles de euros.
     * Agrega el número de camas y de hospitales por comunidad autónoma.
     * Se han eliminado del catálogo de cada año aquellos hospitales que se cierran durante ese año. Esta decisión viene motivada porque en los datos agregados que Sanidad da en sus reportes no se tienen en cuenta los hospitales en su año de cierre.
     * El valor del *gasto total* utiliza el gasto consolidado.
